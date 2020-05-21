@@ -1,4 +1,6 @@
-﻿Informações gerais:
+# Métodos numericos - cin ufpe
+
+Informações gerais:
 	Na implementação dos métodos foi usada a linguagem Python 3 versão 3.5.3 bem como as bibliotecas math e matplotlib. 
 	
 	Todas as entradas são lidas direto do terminal ou da linha de comando dependendo do ambiente, elas devem ser separadas por um enter. É importante que todos os operadores aritméticos sejam escritos, por exemplo, ‘4y’ deve ser escrito na forma ‘4*y’. É saudável ainda adicionar espaço e parêntesis quando necessário, principalmente se envolver o NÚMERO DE EULER, pois é feita uma substituição do caractere ‘e’ por 2,718.
